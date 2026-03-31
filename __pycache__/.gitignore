@@ -1,0 +1,15 @@
+# Ignore generated images
+images/
+
+# Ignore environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore generated PDF
+DDR_Report.pdf
+
+# Ignore system files
+*.pyc
+*.pyo
